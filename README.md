@@ -22,13 +22,13 @@
 
 ## 📌 Мои проекты
 
-- [📷 Instagram Clone](https://github.com/Ermek-dev/instagram-clone)  
+- [📷 Instagram Clone](https://github.com/Ermek-dev/Instagram_clone)  
   Веб-версия Instagram: посты, лайки, подписки, JWT-аутентификация.  
 
-- [🎬 Cinema Booking System](https://github.com/Ermek-dev/cinema-booking)  
+- [🎬 Cinema Booking System](https://github.com/Ermek-dev/Cinemaapp)  
   Онлайн-бронирование билетов: DRF, JWT, WebSocket, Docker, CI/CD.  
 
-- [🤖 Telegram Bot Paulaner](https://github.com/Ermek-dev/PaulanerAPI)  
+- [🤖 Telegram Bot Paulaner](https://github.com/Ermek-dev/PaulanerBot)  
   Бот для автоматизации обучения сотрудников ресторана: меню, история бренда, процесс пивоварения и правила.  
 
 ---
@@ -40,6 +40,6 @@
 ---
 
 ## 📫 Контакты
-- [LinkedIn](https://www.linkedin.com/)  
-- [Telegram](https://t.me/)  
-- Email: your.email@example.com  
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ermek-abdiyev-360794201/))  
+- [Telegram](t.me/ErmekAbdiyev)  
+- Email: abdiyevermek26@gmail.com
