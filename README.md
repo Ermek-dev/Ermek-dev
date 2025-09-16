@@ -40,6 +40,6 @@
 ---
 
 ## 📫 Контакты
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ermek-abdiyev-360794201/))  
-- [Telegram](t.me/ErmekAbdiyev)  
+- [LinkedIn]((https://www.linkedin.com/](https://www.linkedin.com/in/ermek-abdiyev-360794201/))  
+- [Telegram]((t.me/ErmekAbdiyev))  
 - Email: abdiyevermek26@gmail.com
