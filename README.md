@@ -1,14 +1,17 @@
 
+# Hi there! 👋 My name is Ermek  
 
-# Привет! 👋 Меня зовут Эрмек  
-
-Я **Python Backend Developer**, увлечённый созданием надёжных и масштабируемых приложений.  
-Разрабатываю проекты на **Django, Django REST Framework, FastAPI**, использую **PostgreSQL, Redis, Docker, Nginx**.  
-Стремлюсь к росту и работе над реальными продуктами 🚀  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub!;I'm+a+Python+Backend+Developer;Django+%7C+FastAPI+%7C+DRF;Let's+build+something+great+🚀)](https://git.io/typing-svg)
 
 ---
 
-## 🛠️ Технологии и инструменты
+I’m a **Python Backend Developer** passionate about building reliable and scalable applications.  
+I work with **Django, Django REST Framework, FastAPI** and use **PostgreSQL, Redis, Docker, Nginx** in my projects.  
+I’m growth-oriented and eager to contribute to real-world products 🚀  
+
+---
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
@@ -20,26 +23,28 @@
 
 ---
 
-## 📌 Мои проекты
+## 📌 My Projects
 
-- [📷 Instagram Clone](https://github.com/Ermek-dev/Instagram_clone)  
-  Веб-версия Instagram: посты, лайки, подписки, JWT-аутентификация.  
+- [📷 Instagram Clone](https://github.com/Ermek-dev/instagram-clone)  
+  A web version of Instagram: posts, likes, subscriptions, JWT authentication.  
 
-- [🎬 Cinema Booking System](https://github.com/Ermek-dev/Cinemaapp)  
-  Онлайн-бронирование билетов: DRF, JWT, WebSocket, Docker, CI/CD.  
+- [🎬 Cinema Booking System](https://github.com/Ermek-dev/cinema-booking)  
+  Online ticket booking system: DRF, JWT, WebSocket, Docker, CI/CD.  
 
-- [🤖 Telegram Bot Paulaner](https://github.com/Ermek-dev/PaulanerBot)  
-  Бот для автоматизации обучения сотрудников ресторана: меню, история бренда, процесс пивоварения и правила.  
+- [🤖 Telegram Bot Paulaner](https://github.com/Ermek-dev/PaulanerAPI)  
+  A bot for automating employee training in a restaurant: menu, brand history, brewing process, and internal rules.  
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub Stats
 ![Ermek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermek-dev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermek-dev&layout=compact&theme=radical)
 
 ---
 
-## 📫 Контакты
-- [LinkedIn]((https://www.linkedin.com/](https://www.linkedin.com/in/ermek-abdiyev-360794201/))  
-- [Telegram]((t.me/ErmekAbdiyev))  
-- Email: abdiyevermek26@gmail.com
+## 📫 Contacts
+- [LinkedIn](https://www.linkedin.com/in/ermek-abdiyev-360794201/)  
+- [Telegram](https://t.me/ErmekAbdiyev)  
+- **Email:** abdiyevermek26@gmail.com  
+
+
