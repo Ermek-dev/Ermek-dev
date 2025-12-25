@@ -1,50 +1,70 @@
+# Hi 👋 I'm Ermek
 
-# Hi there! 👋 My name is Ermek  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub!;I'm+a+Python+Backend+Developer;Django+%7C+FastAPI+%7C+DRF;Let's+build+something+great+🚀)](https://git.io/typing-svg)
-
----
-
-I’m a **Python Backend Developer** passionate about building reliable and scalable applications.  
-I work with **Django, Django REST Framework, FastAPI** and use **PostgreSQL, Redis, Docker, Nginx** in my projects.  
-I’m growth-oriented and eager to contribute to real-world products 🚀  
+Software Engineer  
+Building reliable backend systems, internal platforms, and interactive production solutions.
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+## 🚀 About
+
+I’m a software engineer focused on production-ready systems that automate workflows, support business operations, and power real-world interactive experiences.
+
+I work across backend development, internal platforms, and system integrations — taking ownership from idea to deployment and live operation.
+
+Comfortable working with product, design, and non-technical teams to deliver measurable impact.
 
 ---
 
-## 📌 My Projects
+## 🛠 Tech Stack
 
-- [📷 Instagram Clone](https://github.com/Ermek-dev/instagram-clone)  
-  A web version of Instagram: posts, likes, subscriptions, JWT authentication.  
+Backend
+- Python, Django, Django REST Framework, FastAPI
+- PostgreSQL, Redis
 
-- [🎬 Cinema Booking System](https://github.com/Ermek-dev/cinema-booking)  
-  Online ticket booking system: DRF, JWT, WebSocket, Docker, CI/CD.  
+Web & Integrations
+- Next.js, REST APIs
+- Telegram Bot API
 
-- [🤖 Telegram Bot Paulaner](https://github.com/Ermek-dev/PaulanerAPI)  
-  A bot for automating employee training in a restaurant: menu, brand history, brewing process, and internal rules.  
-
----
-
-## 📊 GitHub Stats
-![Ermek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ermek-dev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermek-dev&layout=compact&theme=radical)
+Infrastructure & Ops
+- Docker, Linux (Ubuntu)
+- CI/CD, monitoring, logging
+- On-site & remote system deployments
 
 ---
 
-## 📫 Contacts
-- [LinkedIn](https://www.linkedin.com/in/ermek-abdiyev-360794201/)  
-- [Telegram](https://t.me/ErmekAbdiyev)  
-- **Email:** abdiyevermek26@gmail.com  
+## 💼 Selected Experience
 
+### Interactive & Production Systems (OOH / DOOH)
+- Built and shipped one of the first interactive OOH installations in Almaty
+- Delivered real-time interactive logic and production monitoring
+- First project generated 2.4M KZT in client revenue
+- Scaling installations from 1 → 10 locations with centralized control and monitoring
 
+### Backend Platforms & Automation
+- Developed internal platforms to replace manual and Excel-based workflows
+- Built Telegram bots to automate request intake, notifications, and operational workflows
+- Improved delivery speed by reducing manual coordination between teams
+
+### Web & Mobile Integrations
+- Worked on multi-module Next.js platforms with role-based access
+- Integrated backend services with mobile applications used by field teams
+
+---
+
+## 📊 GitHub Activity
+
+A significant portion of my work is done in private organization repositories  
+(internal platforms, production systems, and commercial projects).
+
+Public repositories represent selected personal and demo projects.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ermek-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermek-dev&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ermek-abdiyev-360794201/
+- Telegram: https://t.me/ErmekAbdiyev
+- Email: abdiyevermek26@gmail.com
