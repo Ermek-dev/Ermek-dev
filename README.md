@@ -58,8 +58,10 @@ A significant portion of my work is done in private organization repositories
 
 Public repositories represent selected personal and demo projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ermek-dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ermek-dev&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ermek-dev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Ermek-dev&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ermek-dev&layout=compact&theme=tokyonight)
 
 ---
 
